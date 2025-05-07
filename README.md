@@ -23,12 +23,13 @@ A solução inclui:
 
 Baixe o arquivo .py no repositório e depois execute um notebook no Google Colab com o arquivo mencionado -> projeto1_pablohenrique_ia.py
 
-## 🧰 Bibliotecas Utilizadas
+# 🧰 Bibliotecas Utilizadas
 
 Biblioteca -> Finalidade
-tensorflow -> Construção e treinamento da RNA
-scikeras ->	Wrapper do Keras para uso com GridSearchCV
-scikit-learn -> 	Métricas, otimização e divisão dos dados
-numpy ->	Manipulação de arrays e inserção de ruído
-matplotlib ->	Geração de gráficos
-seaborn ->	Criação de mapas de calor (matriz de confusão)
+
+- tensorflow -> Construção e treinamento da RNA
+- scikeras ->	Wrapper do Keras para uso com GridSearchCV
+- vscikit-learn -> 	Métricas, otimização e divisão dos dados
+- numpy ->	Manipulação de arrays e inserção de ruído
+- matplotlib ->	Geração de gráficos
+- seaborn ->	Criação de mapas de calor (matriz de confusão)
